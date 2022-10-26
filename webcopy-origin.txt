@@ -1,0 +1,536 @@
+Uri: https://airev.us/
+File Name: C:\MySite3\airev.us\index.htm
+Content Type: text/html
+
+Uri: https://airev.us/about-us
+File Name: C:\MySite3\airev.us\about-us.html
+Content Type: text/html
+
+Uri: https://airev.us/ai-in-trading-and-retail
+File Name: C:\MySite3\airev.us\ai-in-trading-and-retail.html
+Content Type: text/html
+
+Uri: https://airev.us/articles
+File Name: C:\MySite3\airev.us\articles.html
+Content Type: text/html
+
+Uri: https://airev.us/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\MySite3\airev.us\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-error.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-icon-server.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\MySite3\airev.us\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\MySite3\airev.us\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://airev.us/cdn-cgi/l/email-protection
+File Name: C:\MySite3\airev.us\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://airev.us/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\MySite3\airev.us\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://airev.us/cdn-cgi/styles/cf.errors.css
+File Name: C:\MySite3\airev.us\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://airev.us/contact-us
+File Name: C:\MySite3\airev.us\contact-us.html
+Content Type: text/html
+
+Uri: https://airev.us/css/about-us~f71cff67.b5ffa400.css
+File Name: C:\MySite3\airev.us\css\about-us~f71cff67.b5ffa400.css
+Content Type: text/css
+
+Uri: https://airev.us/css/app~d0ae3f07.ab899d82.css
+File Name: C:\MySite3\airev.us\css\app~d0ae3f07.ab899d82.css
+Content Type: text/css
+
+Uri: https://airev.us/css/chunk-21989e4a.4f45a114.css
+File Name: C:\MySite3\airev.us\css\chunk-21989e4a.4f45a114.css
+Content Type: text/css
+
+Uri: https://airev.us/css/chunk-d1ec42d4.6070f928.css
+File Name: C:\MySite3\airev.us\css\chunk-d1ec42d4.6070f928.css
+Content Type: text/css
+
+Uri: https://airev.us/css/chunk-vendors~253ae210.f9ac28b6.css
+File Name: C:\MySite3\airev.us\css\chunk-vendors~253ae210.f9ac28b6.css
+Content Type: text/css
+
+Uri: https://airev.us/css/explainer-dashboard~31ecd969.d570a8d0.css
+File Name: C:\MySite3\airev.us\css\explainer-dashboard~31ecd969.d570a8d0.css
+Content Type: text/css
+
+Uri: https://airev.us/css/home~f71cff67.89ef0f4e.css
+File Name: C:\MySite3\airev.us\css\home~f71cff67.89ef0f4e.css
+Content Type: text/css
+
+Uri: https://airev.us/explainer-dashboard
+File Name: C:\MySite3\airev.us\explainer-dashboard.html
+Content Type: text/html
+
+Uri: https://airev.us/favicon.ico
+File Name: C:\MySite3\airev.us\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://airev.us/fonts/element-icons.535877f5.woff
+File Name: C:\MySite3\airev.us\fonts\element-icons.535877f5.woff
+Content Type: font/woff
+
+Uri: https://airev.us/fonts/element-icons.732389de.ttf
+File Name: C:\MySite3\airev.us\fonts\element-icons.732389de.ttf
+Content Type: font/ttf
+
+Uri: https://airev.us/foundation
+File Name: C:\MySite3\airev.us\foundation.html
+Content Type: text/html
+
+Uri: https://airev.us/img/1-1.45eeccbe.png
+File Name: C:\MySite3\airev.us\img\1-1.45eeccbe.png
+Content Type: image/png
+
+Uri: https://airev.us/img/1.0cda083a.jpg
+File Name: C:\MySite3\airev.us\img\1.0cda083a.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/10-1.5e0d42bc.png
+File Name: C:\MySite3\airev.us\img\10-1.5e0d42bc.png
+Content Type: image/png
+
+Uri: https://airev.us/img/11-1.4f37881c.png
+File Name: C:\MySite3\airev.us\img\11-1.4f37881c.png
+Content Type: image/png
+
+Uri: https://airev.us/img/12-1.d7795265.png
+File Name: C:\MySite3\airev.us\img\12-1.d7795265.png
+Content Type: image/png
+
+Uri: https://airev.us/img/13-1.f927a527.png
+File Name: C:\MySite3\airev.us\img\13-1.f927a527.png
+Content Type: image/png
+
+Uri: https://airev.us/img/14-1.6bb6d052.png
+File Name: C:\MySite3\airev.us\img\14-1.6bb6d052.png
+Content Type: image/png
+
+Uri: https://airev.us/img/15-1.a62876a9.png
+File Name: C:\MySite3\airev.us\img\15-1.a62876a9.png
+Content Type: image/png
+
+Uri: https://airev.us/img/16-1.2f273683.png
+File Name: C:\MySite3\airev.us\img\16-1.2f273683.png
+Content Type: image/png
+
+Uri: https://airev.us/img/17-1.523e9b09.png
+File Name: C:\MySite3\airev.us\img\17-1.523e9b09.png
+Content Type: image/png
+
+Uri: https://airev.us/img/18-1.41c05675.png
+File Name: C:\MySite3\airev.us\img\18-1.41c05675.png
+Content Type: image/png
+
+Uri: https://airev.us/img/19-1.9f2ff2da.png
+File Name: C:\MySite3\airev.us\img\19-1.9f2ff2da.png
+Content Type: image/png
+
+Uri: https://airev.us/img/2-1.a3a4c538.png
+File Name: C:\MySite3\airev.us\img\2-1.a3a4c538.png
+Content Type: image/png
+
+Uri: https://airev.us/img/20-1.58728f2d.png
+File Name: C:\MySite3\airev.us\img\20-1.58728f2d.png
+Content Type: image/png
+
+Uri: https://airev.us/img/21-1.4f95ba35.png
+File Name: C:\MySite3\airev.us\img\21-1.4f95ba35.png
+Content Type: image/png
+
+Uri: https://airev.us/img/22-1.d153b32a.png
+File Name: C:\MySite3\airev.us\img\22-1.d153b32a.png
+Content Type: image/png
+
+Uri: https://airev.us/img/23-1.0f9c0c83.png
+File Name: C:\MySite3\airev.us\img\23-1.0f9c0c83.png
+Content Type: image/png
+
+Uri: https://airev.us/img/24-1.a1fcd516.png
+File Name: C:\MySite3\airev.us\img\24-1.a1fcd516.png
+Content Type: image/png
+
+Uri: https://airev.us/img/25-1.9564f131.png
+File Name: C:\MySite3\airev.us\img\25-1.9564f131.png
+Content Type: image/png
+
+Uri: https://airev.us/img/3-1.e038ebff.png
+File Name: C:\MySite3\airev.us\img\3-1.e038ebff.png
+Content Type: image/png
+
+Uri: https://airev.us/img/4-1.f7b1b1da.jpg
+File Name: C:\MySite3\airev.us\img\4-1.f7b1b1da.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/5-1.e8035734.png
+File Name: C:\MySite3\airev.us\img\5-1.e8035734.png
+Content Type: image/png
+
+Uri: https://airev.us/img/6-1.a839e2e0.png
+File Name: C:\MySite3\airev.us\img\6-1.a839e2e0.png
+Content Type: image/png
+
+Uri: https://airev.us/img/7-1.b8d516fd.png
+File Name: C:\MySite3\airev.us\img\7-1.b8d516fd.png
+Content Type: image/png
+
+Uri: https://airev.us/img/8-1.3437afb8.png
+File Name: C:\MySite3\airev.us\img\8-1.3437afb8.png
+Content Type: image/png
+
+Uri: https://airev.us/img/9-1.f135e76c.png
+File Name: C:\MySite3\airev.us\img\9-1.f135e76c.png
+Content Type: image/png
+
+Uri: https://airev.us/img/ai-in-trading-and-retail.421a49bc.png
+File Name: C:\MySite3\airev.us\img\ai-in-trading-and-retail.421a49bc.png
+Content Type: image/png
+
+Uri: https://airev.us/img/airev-logo.df94d9a7.svg
+File Name: C:\MySite3\airev.us\img\airev-logo.df94d9a7.svg
+Content Type: image/svg+xml
+
+Uri: https://airev.us/img/Bastiaan.5a3b6838.png
+File Name: C:\MySite3\airev.us\img\Bastiaan.5a3b6838.png
+Content Type: image/png
+
+Uri: https://airev.us/img/Bill.0a65573d.jpg
+File Name: C:\MySite3\airev.us\img\Bill.0a65573d.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/Bloomberg.06b7103c.jpg
+File Name: C:\MySite3\airev.us\img\Bloomberg.06b7103c.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/brain.6329e1c8.png
+File Name: C:\MySite3\airev.us\img\brain.6329e1c8.png
+Content Type: image/png
+
+Uri: https://airev.us/img/c1.870c9e28.png
+File Name: C:\MySite3\airev.us\img\c1.870c9e28.png
+Content Type: image/png
+
+Uri: https://airev.us/img/cern.81cc40d1.jpg
+File Name: C:\MySite3\airev.us\img\cern.81cc40d1.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/circuit.8974ef9e.png
+File Name: C:\MySite3\airev.us\img\circuit.8974ef9e.png
+Content Type: image/png
+
+Uri: https://airev.us/img/darpa.c880baba.jpg
+File Name: C:\MySite3\airev.us\img\darpa.c880baba.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/enrichment.c95f462b.png
+File Name: C:\MySite3\airev.us\img\enrichment.c95f462b.png
+Content Type: image/png
+
+Uri: https://airev.us/img/explainer-dashboard.ba31243b.png
+File Name: C:\MySite3\airev.us\img\explainer-dashboard.ba31243b.png
+Content Type: image/png
+
+Uri: https://airev.us/img/explainer-dashboard.f31149e4.jpg
+File Name: C:\MySite3\airev.us\img\explainer-dashboard.f31149e4.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/explainerdashboard_small.578dbaed.gif
+File Name: C:\MySite3\airev.us\img\explainerdashboard_small.578dbaed.gif
+Content Type: image/gif
+
+Uri: https://airev.us/img/FinancialTimes.9224ad13.jpg
+File Name: C:\MySite3\airev.us\img\FinancialTimes.9224ad13.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/harvard-logo.4cc6807b.png
+File Name: C:\MySite3\airev.us\img\harvard-logo.4cc6807b.png
+Content Type: image/png
+
+Uri: https://airev.us/img/iconanalytics.e32cbb50.png
+File Name: C:\MySite3\airev.us\img\iconanalytics.e32cbb50.png
+Content Type: image/png
+
+Uri: https://airev.us/img/iconnlp.1bce0c7a.png
+File Name: C:\MySite3\airev.us\img\iconnlp.1bce0c7a.png
+Content Type: image/png
+
+Uri: https://airev.us/img/Joaquin.ebd7bd6d.jpg
+File Name: C:\MySite3\airev.us\img\Joaquin.ebd7bd6d.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/kroll-logo.4fe138d4.png
+File Name: C:\MySite3\airev.us\img\kroll-logo.4fe138d4.png
+Content Type: image/png
+
+Uri: https://airev.us/img/ltcapital.6be78294.jpg
+File Name: C:\MySite3\airev.us\img\ltcapital.6be78294.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/main.7f12b775.png
+File Name: C:\MySite3\airev.us\img\main.7f12b775.png
+Content Type: image/png
+
+Uri: https://airev.us/img/main.9a5b9186.jpg
+File Name: C:\MySite3\airev.us\img\main.9a5b9186.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/main.ebb5ba5d.png
+File Name: C:\MySite3\airev.us\img\main.ebb5ba5d.png
+Content Type: image/png
+
+Uri: https://airev.us/img/Marek.fada6f3f.jpg
+File Name: C:\MySite3\airev.us\img\Marek.fada6f3f.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/nasa-logo.99201458.png
+File Name: C:\MySite3\airev.us\img\nasa-logo.99201458.png
+Content Type: image/png
+
+Uri: https://airev.us/img/nasa-scaled.9e22576f.jpg
+File Name: C:\MySite3\airev.us\img\nasa-scaled.9e22576f.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/nlp-courses-review.b92d76d0.jpg
+File Name: C:\MySite3\airev.us\img\nlp-courses-review.b92d76d0.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/novartis.35e7c63d.jpg
+File Name: C:\MySite3\airev.us\img\novartis.35e7c63d.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/nvidia-logo.0c042a45.png
+File Name: C:\MySite3\airev.us\img\nvidia-logo.0c042a45.png
+Content Type: image/png
+
+Uri: https://airev.us/img/nvidia.d62ace8d.jpg
+File Name: C:\MySite3\airev.us\img\nvidia.d62ace8d.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/opera.52b6a460.jpg
+File Name: C:\MySite3\airev.us\img\opera.52b6a460.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/password.34395c34.png
+File Name: C:\MySite3\airev.us\img\password.34395c34.png
+Content Type: image/png
+
+Uri: https://airev.us/img/roboexplain.15803379.jpg
+File Name: C:\MySite3\airev.us\img\roboexplain.15803379.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/rocketmatter.94d9ba64.jpg
+File Name: C:\MySite3\airev.us\img\rocketmatter.94d9ba64.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/Sbit-logo.2d8806ab.png
+File Name: C:\MySite3\airev.us\img\Sbit-logo.2d8806ab.png
+Content Type: image/png
+
+Uri: https://airev.us/img/table-1.826567d5.jpg
+File Name: C:\MySite3\airev.us\img\table-1.826567d5.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-2.c5aca120.jpg
+File Name: C:\MySite3\airev.us\img\table-2.c5aca120.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-3.26599656.jpg
+File Name: C:\MySite3\airev.us\img\table-3.26599656.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-4.7003313a.jpg
+File Name: C:\MySite3\airev.us\img\table-4.7003313a.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-5.f394e412.jpg
+File Name: C:\MySite3\airev.us\img\table-5.f394e412.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-6.c347e0ee.jpg
+File Name: C:\MySite3\airev.us\img\table-6.c347e0ee.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-7.39745a0a.jpg
+File Name: C:\MySite3\airev.us\img\table-7.39745a0a.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/table-8.57fd2fe4.jpg
+File Name: C:\MySite3\airev.us\img\table-8.57fd2fe4.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/twice.3dabc726.jpg
+File Name: C:\MySite3\airev.us\img\twice.3dabc726.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/ultimate-guide-to-natural-language-processing-courses.f5915216.png
+File Name: C:\MySite3\airev.us\img\ultimate-guide-to-natural-language-processing-courses.f5915216.png
+Content Type: image/png
+
+Uri: https://airev.us/img/warsztaty-1.6c19b39c.jpg
+File Name: C:\MySite3\airev.us\img\warsztaty-1.6c19b39c.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/warsztaty-2.db9559e9.jpg
+File Name: C:\MySite3\airev.us\img\warsztaty-2.db9559e9.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/warsztaty-filipiny-1.a083f39b.jpg
+File Name: C:\MySite3\airev.us\img\warsztaty-filipiny-1.a083f39b.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/warsztaty-filipiny-2.29341271.jpg
+File Name: C:\MySite3\airev.us\img\warsztaty-filipiny-2.29341271.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/img/warsztaty-filipiny-3.bff30913.jpg
+File Name: C:\MySite3\airev.us\img\warsztaty-filipiny-3.bff30913.jpg
+Content Type: image/jpeg
+
+Uri: https://airev.us/js/about-us~f71cff67.86a36e81.js
+File Name: C:\MySite3\airev.us\js\about-us~f71cff67.86a36e81.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/ai-in-trading-and-retail~f71cff67.2a11bd36.js
+File Name: C:\MySite3\airev.us\js\ai-in-trading-and-retail~f71cff67.2a11bd36.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/app~d0ae3f07.a5a809c0.js
+File Name: C:\MySite3\airev.us\js\app~d0ae3f07.a5a809c0.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/articles~f71cff67.3eab59e5.js
+File Name: C:\MySite3\airev.us\js\articles~f71cff67.3eab59e5.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/artificial-intelligence-in-supply-chain-management~f71cff67.b9958297.js
+File Name: C:\MySite3\airev.us\js\artificial-intelligence-in-supply-chain-management~f71cff67.b9958297.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/chunk-21989e4a.c30af962.js
+File Name: C:\MySite3\airev.us\js\chunk-21989e4a.c30af962.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/chunk-d1ec42d4.3ad09af1.js
+File Name: C:\MySite3\airev.us\js\chunk-d1ec42d4.3ad09af1.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/chunk-vendors~1c3a2c3f.c86e61ad.js
+File Name: C:\MySite3\airev.us\js\chunk-vendors~1c3a2c3f.c86e61ad.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/chunk-vendors~253ae210.5f9aba88.js
+File Name: C:\MySite3\airev.us\js\chunk-vendors~253ae210.5f9aba88.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/chunk-vendors~6ed3fd28.44496780.js
+File Name: C:\MySite3\airev.us\js\chunk-vendors~6ed3fd28.44496780.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/contact-us~293961c3.8d78ffe2.js
+File Name: C:\MySite3\airev.us\js\contact-us~293961c3.8d78ffe2.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/explainer-dashboard~31ecd969.8718905d.js
+File Name: C:\MySite3\airev.us\js\explainer-dashboard~31ecd969.8718905d.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/foundation~f71cff67.d91d37b5.js
+File Name: C:\MySite3\airev.us\js\foundation~f71cff67.d91d37b5.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/home~f71cff67.9b3c5f51.js
+File Name: C:\MySite3\airev.us\js\home~f71cff67.9b3c5f51.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/lorem-ipsum~bf4fa4ce.f5b93105.js
+File Name: C:\MySite3\airev.us\js\lorem-ipsum~bf4fa4ce.f5b93105.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/runtime.3f38ea3e.js
+File Name: C:\MySite3\airev.us\js\runtime.3f38ea3e.js
+Content Type: application/javascript
+
+Uri: https://airev.us/js/ultimate-guide-to-natural-language-processing-courses~f71cff67.8908e706.js
+File Name: C:\MySite3\airev.us\js\ultimate-guide-to-natural-language-processing-courses~f71cff67.8908e706.js
+Content Type: application/javascript
+
+Uri: https://airev.us/ultimate-guide-to-natural-language-processing-courses
+File Name: C:\MySite3\airev.us\ultimate-guide-to-natural-language-processing-courses.html
+Content Type: text/html
+
+Uri: https://airev.us/webinar/handling-enterprise-data
+File Name: C:\MySite3\airev.us\webinar\handling-enterprise-data.html
+Content Type: text/html
+
+Uri: https://airev.us/webinar/practical-application-of-ai-for-marketing-and-customer-relationships
+File Name: C:\MySite3\airev.us\webinar\practical-application-of-ai-for-marketing-and-customer-relationships.html
+Content Type: text/html
+
+Uri: https://airev.us/webinar/xai-apps
+File Name: C:\MySite3\airev.us\webinar\xai-apps.html
+Content Type: text/html
+
+Uri: https://airev.us/webinars
+File Name: C:\MySite3\airev.us\webinars.html
+Content Type: text/html
+
+Uri: https://edisciplinas.usp.br/pluginfile.php/334207/mod_resource/content/1/Borenstein%2C S_Andrea_Shepard%2C 1996_ Dynamic pricing in Retail gasoline markets.pdf
+File Name: C:\MySite3\airev.us\pluginfile.php\334207\mod_resource\content\1\Borenstein, S_Andrea_Shepard, 1996_ Dynamic pricing in Retail gasoline markets.pdf
+Content Type: application/pdf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\MySite3\airev.us\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: C:\MySite3\airev.us\beacon.min.js (1)\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\MySite3\airev.us\analytics.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-145601237-1&l=dataLayer
+File Name: C:\MySite3\airev.us\gtag\js
+Content Type: application/javascript
+
